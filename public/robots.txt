@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hodl-jewelry.ru/sitemap.xml
+Host: https://hodl-jewelry.ru
